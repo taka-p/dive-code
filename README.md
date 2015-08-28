@@ -26,6 +26,9 @@ Things you may want to cover:
 name:hoge
 comment:hogehoge
 -----------------
+name:中尾　亮洋
+comment:よろしくお願いします！
+-----------------
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
