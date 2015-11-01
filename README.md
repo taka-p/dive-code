@@ -1,4 +1,5 @@
-# Contributers
+name:sugiyama
+comment:よろしくお願いします。
 ----
 name:hoge  
 comment:hogehoge
