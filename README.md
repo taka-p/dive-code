@@ -12,7 +12,7 @@ name:Dive into Code
 comment:すべての人にテクノロジーという武器を
 
 ---
-name:大西華央
+name:大西華央  
 comment:おはよう
 
 
