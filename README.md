@@ -1,7 +1,7 @@
 # Contributers
 
 
-nama:聖也です
+
 ----
 name:hoge  
 comment:hogehoge
@@ -14,7 +14,7 @@ comment:よろしくお願いします！
 name:Dive into Code  
 comment:すべての人にテクノロジーという武器を
 
----
+---name 聖也です
 
 
 
