@@ -26,3 +26,6 @@ comment:よろしくお願いします。
 name: 毛　志勇  
 comment: 頑張りましょう！  
 ----
+name:HmweMya  
+comment:こんにちは  
+---
