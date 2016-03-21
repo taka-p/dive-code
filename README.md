@@ -29,3 +29,6 @@ comment: 頑張りましょう！
 name:HmweMya  
 comment:こんにちは  
 ---
+name:ychino  
+comment:宜しくお願いします！！！
+---
