@@ -32,3 +32,6 @@ comment:こんにちは
 name:ychino  
 comment:宜しくお願いします！！！
 ---
+name:佐藤 貴士  
+comment:よろしくお願いします。
+---
